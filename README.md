@@ -3,7 +3,7 @@
 # Team members:
 - Sally Zhang, saz53@pitt.edu
 - Cale Moore, cbm51@pitt.edu
-- Tyler Cymmerman, 
+- Tyler Cymmerman, tjc144@pitt.edu
 # Description and links to the datasets used:
 
 # Overview
