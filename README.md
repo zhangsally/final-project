@@ -3,8 +3,13 @@
 # Team members:
 - Sally Zhang, saz53@pitt.edu
 - Cale Moore, cbm51@pitt.edu
-- Tyler Cymmerman, 
+- Tyler Cymmerman, tjc144@pitt.edu
 # Description and links to the datasets used:
+City of Pittsburgh Neighborhoods:
+https://data.wprdc.org/dataset/neighborhoods2/resource/668d7238-cfd2-492e-b397-51a6e74182ff
+
+City of Pittsburgh Public Art:
+https://data.wprdc.org/dataset/city-of-pittsburgh-public-art/resource/00d74e83-8a23-486e-841b-286e1332a151
 
 # Overview
-This repository is meant to determine which Pittsburgh neighborhood is the best based on ...
+This repository is meant to determine which Pittsburgh neighborhood is the best based on 
