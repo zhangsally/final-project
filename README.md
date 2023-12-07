@@ -32,4 +32,4 @@ Team Name: SCT <br>
 - Database holding every park in Pittsburgh and other relevant data
 
 # Overview:
-This repository is meant to determine which Pittsburgh neighborhood is the best based on 3 metrics: community/cultural development in the form of public art, safety measured by crime rate, and environment/accessibility assessed by number of parks.
+This repository is meant to determine which Pittsburgh neighborhood is the "best" (or most fun) based on 3 metrics: community/cultural development in the form of public art, safety measured by crime rate, and environment/accessibility assessed by number of parks.
